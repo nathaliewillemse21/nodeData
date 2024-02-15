@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "name": "Phone 1",
+      "description": "I built this application using HTML, CSS, and Javascript.",
+      "image": "https://i.ibb.co/vXWW0TJ/phone1.jpg",
+      "price": "R250"
+
+    },
+    {
+      "name": "Phone 2",
+      "description": "This a RGB to Hex claculator I built with Javascript, CSS and HTML",
+      "image": "https://i.ibb.co/zxKgB4p/phone2.jpg",
+       "price": "R250"
+    },
+    {
+      "name": "Phone 3",
+      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
+      "image": "https://i.ibb.co/fSW4nX8/phone3.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 4",
+      "description": "A flicard I buitl with HTML and CSS",
+      "image": "https://i.ibb.co/8sZB5f6/phone4.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 5",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://i.ibb.co/mCsPY1y/phone5.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 6",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://i.ibb.co/jG9TnQM/phone6.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 7",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://i.ibb.co/4j62pYW/phone7.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 8",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://i.ibb.co/SV99gHX/phone8.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 9",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://i.ibb.co/qkddDp9/phone9.jpg",
+      "price": "R250"
+    },
+    {
+      "name": "Phone 10",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://i.ibb.co/y61v5dv/phone10.jpg",
+      "price": "R250"
+    }
+  ]
+}
