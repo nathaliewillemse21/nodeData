@@ -1,64 +1,79 @@
 {
-  "products": [
+  "Samsung": [
     {
-      "name": "Phone 1",
-      "description": "I built this application using HTML, CSS, and Javascript.",
-      "image": "https://i.ibb.co/vXWW0TJ/phone1.jpg",
-      "price": "R250"
+      "name": "Samsung 1",
+      "description": "This cover is printed with the flag of our country.",
+      "image": "https://i.ibb.co/XDTztZN/samsung1.jpg",
+      "price": "R150"
 
     },
     {
-      "name": "Phone 2",
-      "description": "This a RGB to Hex claculator I built with Javascript, CSS and HTML",
-      "image": "https://i.ibb.co/zxKgB4p/phone2.jpg",
+      "name": "Samsung 2",
+      "description": "This is a calm pink which make that when u are holdig or looking at you cover then you are calm",
+      "image": "https://i.ibb.co/KxY2MYP/samsung2.jpg",
+       "price": "R300"
+    },
+    {
+      "name": "Samsung 3",
+      "description": "This a a light yet strong cover with a strong barrier surounding it.",
+      "image": "https://i.ibb.co/nQbhDkd/samsung3.jp",
+      "price": "R400"
+    },
+    {
+      "name": "Samsung 4",
+      "description": "This gives off the appearance of water droplits in two differents colours.",
+      "image": "https://i.ibb.co/2KVN4bg/samsung4.jpg",
+      "price": "R350"
+    },
+    {
+      "name": "Samsung 5",
+      "description": "This lilac to purple is a light airy and pretty cover for those who like lilacs.",
+      "image": "https://i.ibb.co/sySgQnB/samsung5.jpg",
+      "price": "R150"
+    },
+    {
+      "name": "Samsung 6",
+      "description": "This purple rose is so unique that its looks very 3D with how detailed it is.",
+      "image": "https://i.ibb.co/37GKZhx/samsung6.jpg",
+      "price": "R450"
+    }
+  ],
+  "iPhones": [
+    {
+      "name": "iPhone 1",
+      "description": "This pastel rainbow cover give off a soft yet fun appearance.",
+      "image": "https://i.ibb.co/6rv9Yh8/iphone1.jpg",
+      "price": "R300"
+
+    },
+    {
+      "name": "iPhone 2",
+      "description": "This very that very retro and different patterns that is very cute.",
+      "image": "https://i.ibb.co/x75GkJK/Iphone2.jpg",
        "price": "R250"
     },
     {
-      "name": "Phone 3",
-      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
-      "image": "https://i.ibb.co/fSW4nX8/phone3.jpg",
-      "price": "R250"
+      "name": "iPhone 3",
+      "description": "  This cover is very dark in a sense of independence .",
+      "image": "https://i.ibb.co/pf7X5S3/iphone3.jpg",
+      "price": "R400"
     },
     {
-      "name": "Phone 4",
-      "description": "A flicard I buitl with HTML and CSS",
-      "image": "https://i.ibb.co/8sZB5f6/phone4.jpg",
-      "price": "R250"
+      "name": "iPhone 4",
+      "description": "This pretty cover is for those who love different shades and textures.",
+      "image": "https://i.ibb.co/5183y7r/iphone4.jpg",
+      "price": "R350"
     },
     {
-      "name": "Phone 5",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://i.ibb.co/mCsPY1y/phone5.jpg",
-      "price": "R250"
+      "name": "iPhone 5",
+      "description": "This is very self-explainatory to BTS fans. ",
+      "image": "https://i.ibb.co/4JjJKcv/iphone5.jpg",
+      "price": "R500"
     },
     {
-      "name": "Phone 6",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://i.ibb.co/jG9TnQM/phone6.jpg",
-      "price": "R250"
-    },
-    {
-      "name": "Phone 7",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://i.ibb.co/4j62pYW/phone7.jpg",
-      "price": "R250"
-    },
-    {
-      "name": "Phone 8",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://i.ibb.co/SV99gHX/phone8.jpg",
-      "price": "R250"
-    },
-    {
-      "name": "Phone 9",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://i.ibb.co/qkddDp9/phone9.jpg",
-      "price": "R250"
-    },
-    {
-      "name": "Phone 10",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://i.ibb.co/y61v5dv/phone10.jpg",
+      "name": "iPhone 6",
+      "description": "This cover is for those who love that brown and soft beige to cover their phones.",
+      "image": "https://i.ibb.co/bHXhWTg/iphone6.jpg",
       "price": "R250"
     }
   ]
