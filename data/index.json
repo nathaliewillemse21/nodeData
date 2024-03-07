@@ -1,80 +1,549 @@
 {
-  "Samsung": [
+  "Library": [
     {
-      "name": "Samsung 1",
-      "description": "This cover is printed with the flag of our country.",
-      "image": "https://i.ibb.co/XDTztZN/samsung1.jpg",
-      "price": "R150"
+      "BookID": "100",
+      "Title": "The Return of the God Level Assassin",
+      "Category": "Chinese manhua",
+      "Tags": "Lgbtq+, romance, comedy, young adult",
+      "Summary": "As soon as Luo Yan graduated, he immediately got an offer from a prestigious gaming company. He thought all his hard work finally paid off. And he would finally reach the pinnacle of life. But then, on his first day of work, a potted plant fell on his head and he died.Surprisingly, when he thought he would cross the Yellow River, he suddenly woke up and found himself in the body of a 17 year old boy. This body had the same name as him but completely different background. Because the original was the second young master of the Luo family - one of the most powerful family in S City. Luo Yan almost cried. God probably took pity on him and decided to give him a loving family with a wealthy background. He didn't have to work hard anymore. Studying like his life depended on it and pretending to be a holy father just to cater to people. So Luo Yan decided to be a salted fish and just shamelessly sell meng.",
+      "Cover":"https://i.ibb.co/HPqFTLR/Screenshot-2024-03-06-121015.png",
+      "UserID":""
 
     },
     {
-      "name": "Samsung 2",
-      "description": "This is a calm pink which make that when u are holdig or looking at you cover then you are calm",
-      "image": "https://i.ibb.co/KxY2MYP/samsung2.jpg",
-       "price": "R300"
+      "BookID": "101",
+      "Title": "Seduce The Villainess ",
+      "Category": "Chinese manhua",
+      "Tags": "Lgbtq+, mystery, romance, young adult",
+      "Summary": "Every story needs a great evil for the hero or heroine to defeat...The wicked stepmother who torments Cinderella.The fearsome dragon who kidnaps the princess.The fake rich daughter who bullies the real.",
+      "Cover":"https://i.ibb.co/PZj22BY/Screenshot-2024-03-06-123648.png" ,
+      "UserID":""
     },
     {
-      "name": "Samsung 3",
-      "description": "This a a light yet strong cover with a strong barrier surounding it.",
-      "image": "https://i.ibb.co/nQbhDkd/samsung3.jp",
-      "price": "R400"
+      "BookID": "102",
+      "Title": "The Real Rich Daughter is Exposed at a Variety Show ",
+      "Category": "Chinese manhua",
+      "Tags": "Romance, comedy",
+      "Summary": "Bai Lin is the real rich daughter and was found at eight, but the fake rich daughter's ploy forced her parents to send her back to the village for twelve years.Returning to her family after twelve years, all she received was scorn instead of concern.Mr. Bai: 'Change your bumpkin habits and act like a proper daughter from a wealthy family.'Mrs. Bai: 'Straighten out your fashion taste. We can have you join your sister's variety show and see the world.'Bai Lin's brother: 'Do you even know how to play video games?'Bai Lin decided to leave since she was not here to suffer their scorn and was about to leave unceremoniously when the fake rich daughter insincerely stopped her: 'Come home! I'm willing to go even if I can't bear to leave my parents... just promise to let me visit them from time to time, okay?'The fake rich daugthter's words made Bai Lin suffer even more scorn, with the internet flaming her and her family distancing themselves. Everyone was convinced that she was shameless and trying to steal the limelight from the fake rich daughter at the variety show, yet... A certain star celebrity: Everyone, this is my little sister!A certain top martial artist: Everyone, this is my master! A certain mercenary leader: Hey, that's my boss!Then, a certain movie star took a photo of him being intimate with Bai Lin, officially announcing that they were married!The internet blew up the instant the news was published! When did that happen? Wasn't he supposed to be cold and proud? Why is he acting so spoiled? We want our cool movie star back!",
+      "Cover":"https://i.ibb.co/dfx567h/Screenshot-2024-03-06-124019.png" ,
+      "UserID":""
+    },
+    {"BookID": "103",
+      "Title": "Stepped Over Her Vicious Stepsister To Become The True Bigshot!",
+      "Category": "Chinese manhua",
+      "Tags": "Revenge, mystery, action",
+      "Summary": "Gu Man, who transmigrated from ancient times, woke up in the body of the Gu family's second daughter. As soon as she woke up, she saw the fiance of the original body who had hooked up with her stepsister. Faced with the scumbag's confident questioning, disgusted gaze and a slap to her face, Gu Man's reaction was to return a fierce blow to him. She hit him until he was dizzy and knelt to the ground, his lower body covered in cold sweat. Gu Man only realized that a video of her walking into the room had been leaked after she left, and the matter had begun to spread rapidly. Countless people insulted Gu Man and called her a mistress. Faced with a two-faced stepsister, a malicious and deceiving stepmother who climbed her way up from being a mistress, and a father who couldn't tell wrong from right and treated her as more of an adopted daughter, as well as those stupid onlookers who didn't know the truth of the matter and called her a country girl… Gu Man ignored them all. The top scorer in the college entrance examination, top hacker, divine doctor, financial tycoon… All kinds of identities were attached to a single person. Gu Man relied on her own strength to ruthlessly slap them all back in the face! The noble Xiang family's eldest son, a powerful man in the capital, even declared to the public that his wife was mischievous, and that he would take the blame if she made a mistake. Just when everyone was wondering who this sweet wife of his was, the entertainment headlines published a photo of him holding his sweet wife as they walked in and out of a high-end hotel. The woman in the picture was Gu Man! Xiang family's son: Everyone, meet my wife!",
+      "Cover":"https://i.ibb.co/48Qfn7H/Screenshot-2024-03-06-124650.png" ,
+      "UserID":""
+    },
+    {"BookID": "104",
+      "Title": "Everyone Pampers the Small Blessing Who Has a Spatial Pocket!",
+      "Category": "Chinese manhua",
+      "Tags": "Historical fiction",
+      "Summary": "The girl who transmigrated threw four-year-old Yu into a snowy mountain in order to change her fate. Fortunately, kind-hearted people took the young girl in. The Wang family was poor, sick, disabled and indebted, But from start to end, they pampered her like a precious jewel. Everyone said that the Wang family picked up a money-losing burden. Sooner or later, they would all end up badly together! Unexpectedly, this little precious doll was a small blessing. Little Yu took out her little pocket and smiled sweetly. Portable spatial pocket, the best spiritual spring, spiritual measurement mouse… Anything they wanted, Yu had it! An eye for an eye, a tooth for a tooth. This small blessing was incredible. Not only was she a farming expert, but she was also great at business. She even opened a school, sea trade, established a prestigious kindergarten, and even gained the favor of all the staff! Watch as the small, pampered blessing turns the table around and brings her family to the pinnacle of life! The transmigrated girl and the villains were dumbfounded. It looks like they were the ones who missed out on getting the person with a cheat!",
+      "Cover":"https://i.ibb.co/2kRZWHR/Screenshot-2024-03-06-131544.png" ,
+      "UserID":""
     },
     {
-      "name": "Samsung 4",
-      "description": "This gives off the appearance of water droplits in two differents colours.",
-      "image": "https://i.ibb.co/2KVN4bg/samsung4.jpg",
-      "price": "R350"
+      "BookID": "105",
+      "Title": "The Spider Queen",
+      "Category": "Chinese manhua",
+      "Tags": "Sci-fi",
+      "Summary": "In the Year 30XX...... Humans have long been discovering the wonders of the universe and exploring the great galaxies beyond the milky way. They are not alone.",
+      "Cover":"https://i.ibb.co/n6vL0nD/Screenshot-2024-03-06-132227.png",
+      "UserID":""
     },
     {
-      "name": "Samsung 5",
-      "description": "This lilac to purple is a light airy and pretty cover for those who like lilacs.",
-      "image": "https://i.ibb.co/sySgQnB/samsung5.jpg",
-      "price": "R150"
+      "BookID": "106",
+      "Title": "Reborn In The Apocalypse: It Had Always Been You",
+      "Category": "Chinese manhua",
+      "Tags": "Sci-fi, romance",
+      "Summary": "Su Shanshan died a violent death eight years into the apocalypse but somehow, she opened her eyes to find herself reborn. Time had turned back to the day before the apocalypse. Having the chance to start over filled her with hope. Having lived through the bloody violence of the apocalypse, she now had the skills and knowledge to survive and thrive in the end times. She would repay the man who gave his life trying to save her even though she broke his heart.The big brother whom she had reviled in her previous life. This time, she would take a chance on love.As if blessed by the heavens, she had unexpectedly been given a spatial superpower, with which she hoarded resources that would sustain her in the apocalypse.When the world changed in an instant on Doomsday, and hordes of flesh-eating zombies roamed the place, she set off on a dangerous journey to find him, determined to alter the course of events that unfolded and change what happened in the past.",
+      "Cover":"https://i.ibb.co/6gZPX8t/Screenshot-2024-03-06-132604.png" ,
+      "UserID":""
     },
     {
-      "name": "Samsung 6",
-      "description": "This purple rose is so unique that its looks very 3D with how detailed it is.",
-      "image": "https://i.ibb.co/37GKZhx/samsung6.jpg",
-      "price": "R450"
+      "BookID": "107",
+      "Title": "Rising Phoenix",
+      "Category": "Chinese manhua",
+      "Tags": "Historical Fiction",
+      "Summary": "Dynasties rise and dynasties fall, like the tide washing the sand. On one side, he suffers from intrigue and hides his great ambition; on the other, the mysterious girl hides her anger behind her gentle smile.Who toppled the country, establishing their dynasty?",
+      "Cover":"https://i.ibb.co/Gdfxy9s/Screenshot-2024-03-06-132722.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "108",
+      "Title": "My House of Horrors",
+      "Category": "Chinese manhua",
+      "Tags": "Horror, mystery",
+      "Summary": "The hearse with the weird odor slowed to a stop before the entrance. The sound of pebbles could be heard bouncing on the ceiling. There were footsteps coming from the corridor, and there seemed to be someone sawing next door. The door knob to the room rattled slightly, and the faucet in the bathroom kept dripping even though it had been screwed shut. There was a rubber ball that rolled on its own underneath the bed. Wet footsteps started to surface one after another on the floor.At 3 am, Chen Ge held a cleaver in his hand as he hid beside the room heater. The call he was trying to make was finally answered. 'Landlord, is this what you meant by `the house can be a little crowded at night`?'",
+      "Cover":"https://i.ibb.co/2KQntkM/Screenshot-2024-03-06-133245.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "109",
+      "Title": "Supreme Magus",
+      "Category": "Chinese manhua",
+      "Tags": "Fantasy, action",
+      "Summary": "Derek McCoy was a man who spent his entire life facing adversity and injustice. After being forced to settle with surviving rather than living, he had finally found his place in the world, until everything was taken from him one last time. After losing his life to avenge his murdered brother, he reincarnates until he finds a world worth living in, a world filled with magic and monsters. Follow him along his journey, from grieving brother to alien soldier. From infant to Supreme Magus.",
+      "Cover":"https://i.ibb.co/t3dMmg7/Screenshot-2024-03-06-133744.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "110",
+      "Title": "Shadow Slave",
+      "Category": "Chinese manhua",
+      "Tags": "Fantasy, action,romance",
+      "Summary": "Growing up in poverty, Sunny never expected anything good from life. However, even he did not anticipate being chosen by the Nightmare Spell and becoming one of the Awakened - an elite group of people gifted with supernatural powers. Transported into a ruined magical world, he found himself facing against terrible monsters - and other Awakened - in a deadly battle of survival.What's worse, the divine power he received happened to possess a small, but potentially fatal side effect...",
+      "Cover":"https://i.ibb.co/5W4RT3P/Screenshot-2024-03-07-084522.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "111",
+      "Title": "Lord of Mysteries",
+      "Category": "Chinese manhua",
+      "Tags": "Sci-fi, mystery",
+      "Summary": "With the rising tide of steam power and machinery, who can come close to being a Beyonder? Shrouded in the fog of history and darkness, who or what is the lurking evil that murmurs into our ears?Waking up to be faced with a string of mysteries, Zhou Mingrui finds himself reincarnated as Klein Moretti in an alternate Victorian era world where he sees a world filled with machinery, cannons, dreadnoughts, airships, difference machines, as well as Potions, Divination, Hexes, Tarot Cards, Sealed Artifacts… The Light continues to shine but mystery has never gone far. Follow Klein as he finds himself entangled with the Churches of the world—both orthodox and unorthodox—while he slowly develops newfound powers thanks to the Beyonder potions.Like the corresponding tarot card, The Fool, which is numbered 0—a number of unlimited potential—this is the legend of 'The Fool.'",
+      "Cover":"https://i.ibb.co/zHZT43B/Screenshot-2024-03-07-090713.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "112",
+      "Title": "Dual Cultivator Reborn[System In The Cultivation World]",
+      "Category": "Chinese manhua",
+      "Tags": "Fantasy, action, comedy, romance",
+      "Summary": "Yohan was a game maniac. He loved playing the cultivation game that was popular on Earth, and he was one of the famous players in the action genre, but unfortunately, he died while crossing the road. Truck Kun Hit him at a lightning-fast speed.After dying in an unfortunate accident his soul transmigrated into a world dominated by cultivators, Destiny played a cruel prank on him, the body he Acquired belonged to a trash dual cultivator who belong to the famous clan with no influence..",
+      "Cover":"https://i.ibb.co/6sN0L5p/Screenshot-2024-03-07-090917.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "113",
+      "Title": "Sword God in a World of Magic",
+      "Category": "Chinese manhua",
+      "Tags": "Fantasy, action",
+      "Summary": "The God of this world had grown angry and frustrated yet again.His world was supposed to entertain him! It was supposed to be fun to watch!",
+      "Cover":"https://i.ibb.co/Y2XmPb0/Screenshot-2024-03-07-091339.png" ,
+      "UserID":""
+    }, 
+    {
+      "BookID": "114",
+      "Title": "The Bloodline System",
+      "Category": "Chinese manhua",
+      "Tags": "Romance, action",
+      "Summary": "In a future timeline, the earth was visited by a species known as the Slarkovs. Having lost their home planet and in search of a new one, the Earth was the next habitable planet for them. Humans and Slarkovs made a deal with each other in return for the Slarkovs living on Earth.",
+      "Cover":"https://i.ibb.co/y6HKtsw/Screenshot-2024-03-07-092241.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "115",
+      "Title": "The Bringer of Light",
+      "Category": "Chinese manhua",
+      "Tags": "Historical Fiction",
+      "Summary": "He kneeled on the snow. The burning cold was reddening both his toes and fingers, but it didn't compare to the anger he was feeling at the moment. Such anger could be noticed in his expression, which even seemed animalistic, as well as in the tears streaming down his face.When he opened his eyes, all he could see was an old, wooden ceiling. After staring at it for a while, he turned his head. 'Oh! I'm glad you're awake!' 'I swear! I'm coming back alive!' On August 17th 1788, Austria, a new boy is born, this boy would bring a huge change with him.The novel 'The Bringer of Light' will revolve around quarrels of powerful noble families, political matters, strategic discussions, the real human condition where good and bad people don't truly exist, and much more.That boy is a prodigy child, having deep insight ever since his birth. One day, something terrible happens to him, which makes him have the goal of bringing light to this world. The main point of this book is following him on his journey to fulfill that task. He goes through a lot of internal struggles such as: Is it really possible to achieve such a thing? Is what I'm trying to do even the right choice?",
+      "Cover":"https://i.ibb.co/BPzyRgv/Screenshot-2024-03-07-092755.png" ,
+      "UserID":""
+    },
+    {
+      "BookID": "116",
+      "Title": "Everything is fair in love and war",
+      "Category": "Chinese manhua",
+      "Tags": "Fantasy, action",
+      "Summary": "One male lead and One female lead. A book based on a historical setting with a boy named Zagan and a girl named Titan. Both were born with the inability to speak. Zagan, who is the third prince of the Leo clan is forced out of his clan due to a war that was waged against the Lynx clan and is the only survivor of his clan. He never felt the love of his father because he was born with claws and was locked up in a tower for twelve years until the war cleared his entire clan leaving him as the only survivor. He then embarks on a journey that changed his life forever. Titan is a smart eight-year-old child from the Lynx clan, leaves her parents and goes beyond the mountains to fulfil her destiny. Subsequently, she realizes that she once lived amongst gods and Amora the god of love and beauty, her best friend poisoned her due to jealousy and ended her life.",
+      "Cover":"https://i.ibb.co/qF2Dk77/Screenshot-2024-03-07-093438.png",
+      "UserID":""
+    },
+    {
+      "BookID": "117",
+      "Title": "Rebirth of a Poisonous Woman",
+      "Category": "Chinese manhua",
+      "Tags": "Historical Fiction, revenge",
+      "Summary": "An Jinxiu was the daughter of Grand Preceptor An, married to the current General Shangguan at the age of sixteen. However, she had delusions of fawning over the Fifth Prince whic is now His Majesty Bai Chengze. She had given him her heart, given him advice, plotted against him, stolen the military talisman from her husband's hands, helped him turn into a soldier and massacred the entire capital. So what if she helped him become the master of this world? An Jinxiu was a wicked woman that disobeyed the laws of women. A dirty woman; an abandoned woman with a husband. She is a wicked woman who wanted to climb the ranks of dragons and bring down the phoenixes. Her husband, Shangguan Yong, did not know poetry, so what if he did not understand romance? This man was the only one who had truly treated her with sincerity. She was reborn, back to the day before she got married. In this life, she'll live a completely different life. She'll love her husband.",
+      "Cover":"https://i.ibb.co/59typHr/Screenshot-2024-03-07-105203.png",
+      "UserID":""
+    },
+    {
+      "BookID": "118",
+      "Title": "Flowers Bloom from Battlefield ",
+      "Category": "Chinese manhua",
+      "Tags": "Historical Fiction, romance",
+      "Summary": "Throughout the Ming Kingdom, Jun Hua was famous for being a useless girl without any talent worthy of praise. Everyone mocked her, belittling her for latching onto her brilliant brother Jun Min, the young and peerless general admired as the most talented prodigy for his talent and his ability to change the fate of the declining Jun Family. Never in their wildest dreams would they have suspected that Jun Hua is the young general who is leading the army on the frontline, Jun Min! 'She has no talent as a girl, but has the brilliance of a great general!' Her journey towards revenge is something she has to do on her own. And yet, on that path she will gain allies, friends, and possibly even...... a romance? This is Jun Hua's story, a story that shall be carved into history as the legend of 'the flower who blooms from the battlefields'.",
+      "Cover":"https://i.ibb.co/5MC7dcC/Screenshot-2024-03-07-105428.png",
+      "UserID":""
+    },
+    {
+      "BookID": "119",
+      "Title": "Voyage With The Pirate King",
+      "Category": "Chinese manhua",
+      "Tags": "Lgbtq+, fantasy, action",
+      "Summary": "Ji Yao, the future Pirate King rescued a pitiful boy from the goodness of his heart only to find out that pitiable looking lad was far from the word pitiful. Calling him a wolf pup in sheep's clothing wouldn't be an exaggeration. Like they say watch what you pick up and bring home with you.As they journeyed across the continent slaying creatures and half breeds that stood in their way all the wolf pup could think of was: 'My husband is cute,' Or'When can we will nightfall come so we can cuddle,' Or 'Husband smells so good. I want to bite him.' Ji Yao who had woken up with a bite mark,'.....'Let's Voyage together and witness a relationship designed by fate blossom into a power couple born from powerful Nocru clans..",
+      "Cover":"https://i.ibb.co/ngbCzd9/Screenshot-2024-03-07-105822.png" ,
+      "UserID":""
     }
   ],
-  "iPhones": [
+  "Japanese manga": [
+    
     {
-      "name": "iPhone 1",
-      "description": "This pastel rainbow cover give off a soft yet fun appearance.",
-      "image": "https://i.ibb.co/6rv9Yh8/iphone1.jpg",
-      "price": "R300"
-
+     "BookID": "200",
+      "Title": "Gantz",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "Gantz, written and illustrated by Hiroya Oku, is one of the most famous and popular manga especially among adults. It began its serialization in 2000 in Weekly Young Jump and finished with the 37th volume in 2013. While many popular manga are adapted into anime and sometimes the anime becomes more beloved, Gantz was indeed animated in 2004. However, many fans believe that the true charm of the series lies in the manga. After being fatally injured, Kei Kurono and Masaru Kato find themselves in a mysterious room with an enigmatic black orb called Gantz. Forced into deadly games, participants must hunt down aliens hiding in the human world. As they struggle for survival, they grapple with morality, death, and the unknown.",
+      "Cover":"https://i.ibb.co/dPDtKmb/Screenshot-2024-03-07-111811.png",
+      "UserID":""
     },
     {
-      "name": "iPhone 2",
-      "description": "This very that very retro and different patterns that is very cute.",
-      "image": "https://i.ibb.co/x75GkJK/Iphone2.jpg",
-       "price": "R250"
+     "BookID": "201",
+      "Title": "One Piece",
+      "Category": "Japanese manga",
+      "Tags": "Comedy, action",
+      "Summary": "One Piece (ワンピース), which has been serialized on Weekly Shonen Jump since 1997, is the best manga of all time, which almost nobody can disagree with. Over 100 volumes have been published and totally about 500 million copies are sold worldwide. It has been translated into foreign languages in more than 40 countries and regions.The action and adventure manga centers of a pirate Monkey D. Luffy with his crews sailing around the sea to seek the world's ultimate treasure known as “One Piece”. In addition to the treasure, a Devil Fruit is one of the symbols of the manga, which give a supernatural power to those who eat one in exchange for an ability to swim. Luffy's body is changed into the rubber one after eating the Gum-Gum Fruit. Every character including Luffy, his crews and other pirates and opposite marine forces is depicted powerfully and attractively.One Piece consists of quite many important themes such as tight-knit crews, pure dreams, loves, histories, social problems, conflicts and so on. Any kind of fan can sympathize and enjoy the story and the personalities of the characters.",
+      "Cover":"https://i.ibb.co/Yc2VwHh/Screenshot-2024-03-07-113935.png",
+      "UserID":""
     },
     {
-      "name": "iPhone 3",
-      "description": "  This cover is very dark in a sense of independence .",
-      "image": "https://i.ibb.co/pf7X5S3/iphone3.jpg",
-      "price": "R400"
+     "BookID": "202",
+      "Title": "Naruto",
+      "Category": "Japanese manga",
+      "Tags": "Action, comedy, fantasy",
+      "Summary": "For one of the most famous and popular manga worldwide, a huge range of manga fans and otaku agree with Naruto (ナルト), the Ninja-themed manga. Naruto was serialized on Weekly Shonen Jump for about 15 year from 1999, and totally 72 volumes with 700 chapters were published. As of 2019, about 250 million copies were sold all over the world.The setting of the manga is the fictional world of Shinobi (Ninja), and it focuses on the main character Naruto, who is hopeless as Ninja at the first place but gradually develops his skill repeatedly suffering setbacks. In addition to the young boy, many his friends, teachers and even enemy characters are featured in Naruto. Naruto and other Ninja characters battle with various Ninja techniques using the chakra energy.",
+      "Cover":"https://i.ibb.co/w0yXK7T/Screenshot-2024-03-07-114532.png",
+      "UserID":""
     },
     {
-      "name": "iPhone 4",
-      "description": "This pretty cover is for those who love different shades and textures.",
-      "image": "https://i.ibb.co/5183y7r/iphone4.jpg",
-      "price": "R350"
+     "BookID": "203",
+      "Title": "Dragon Ball",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "Speaking of the history of manga, you cannot avoid talking about Dragon Ball (ドラゴンボール). The action and adventure manga was serialized on Weekly Shonen Jump for about a decade from 1984, which contributed to the flourishing age of the Japanese comic book magazine brand in 1990s and even the whole manga industry.At the first place, the main character Son Goku begins his adventure to search the world for the Dragon Balls which grant a wish to those who collect all of the seven Dragon Balls. The story proceeds with the Goku's growth though hard training and battles with various characters. As Kamehameha which is an energy attack the characters emit is well-known in the manga, Dragon Ball has led the martial-arts genre of manga with the unique battle techniques for a long time.The two generations of Goku, his son Gohan and his second son Goten are mainly featured in the whole story. The second part of the story, which is also known as Dragon Ball Z, starts after Goku has grown up. Dragon Ball is followed by the official sequel Dragon Ball Super (ドラゴンボール超)  from 2015.",
+      "Cover":"https://i.ibb.co/CtczbZr/Screenshot-2024-03-07-114725.png",
+      "UserID":""
     },
     {
-      "name": "iPhone 5",
-      "description": "This is very self-explainatory to BTS fans. ",
-      "image": "https://i.ibb.co/4JjJKcv/iphone5.jpg",
-      "price": "R500"
+     "BookID": "204",
+      "Title": "Demon Slayer: Kimetsu o Yaiba",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "Demon Slayer: Kimetsu no Yaiba (鬼滅の刃) is one of the best manga in the 21st century and many fans regard it as the best one of all time. Demon Slayer: Kimetsu no Yaiba started to be serialized on Weekly Shonen Jump in 2016, which was finally completed in May, 2020 while it’s at the peak of popularity.The story is set in the fictional world of Japan in the Taisho period (1912-1926). Demons exist threatening human peace there, and selected demon slayers wipe out them. The protagonist Tanjiro Kamado decides to fight with demons after his family is attacked by demons. The growth of Tanjiro and his meeting with his friends are featured in the manga.",
+      "Cover":"https://i.ibb.co/NSKyM3L/Screenshot-2024-03-07-114831.png",
+      "UserID":""
     },
     {
-      "name": "iPhone 6",
-      "description": "This cover is for those who love that brown and soft beige to cover their phones.",
-      "image": "https://i.ibb.co/bHXhWTg/iphone6.jpg",
-      "price": "R250"
+     "BookID": "205",
+      "Title": "Hunter x Hunter",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "As the greatest mange in recent years, Hunter x Hunter (ハンター×ハンター) should be listed with admiration. The Weekly Shonen Jump's adventure manga has been written since 1998 by Yoshihiro Togashi who is also known for Yu Yu Hakusho. The story centers on the young boy named Gon Freecss. He starts his journey to find his father Ging Freecss who left him at a young age. While traveling, he meets lots of attractive characters including Killua Zoldyck, Kurapika, Leorio, and so on.",
+      "Cover":"https://i.ibb.co/JrjG1JH/Screenshot-2024-03-07-114901.png",
+      "UserID":""
+    },
+    {
+     "BookID": "206",
+      "Title": "Akira",
+      "Category": "Japanese manga",
+      "Tags": "Sci-fi, mystery, action",
+      "Summary": "As the famous manga creator Katsuhiro Otomo and his works have lots of fans all over the globe, his masterpiece Akira (アキラ) should be listed in the best manga lineup. 120 chapters of Akira were published on Weekly Young Magazine between 1982 and 1990, and the anime movie adaption, which was released in 1988, has been worldly renowned.The sci-fi and near-future manga is set in the fictional, catastrophic city Neo-Tokyo in 2019, which is deserted for by an enormous explosion 37 years ago. The two main characters Shotaro Kaneda and Tetsuo Shima are mixed up in the chaotic conspiracy of the government with Akira who looks like a small child and has the devastating psychic power.",
+      "Cover":"https://i.ibb.co/8B26cg6/Screenshot-2024-03-07-115113.png",
+      "UserID":""
+    },
+     {
+     "BookID": "207",
+      "Title": "Fullmetal Alchemist",
+      "Category": "Japanese manga",
+      "Tags": "Fantasy, mystery, action",
+      "Summary": "Fullmetal Alchemist (鋼の錬金術師), one of the top-rated modern manga around the world, was published on Monthly Shonen Gangan between 2001 and 2010. It can be categorized into various genres such as adventure, action, dark-fantasy, science fiction, etc. The story proceeds with the alchemist brothers named Edward Elric and Alphonse Elric, who can use alchemy to create anything they desire in exchange for something of equal value. Of course, some anime adaptions were created for the fans of Fullmetal Alchemist.",
+      "Cover":"https://i.ibb.co/VqCByKn/Screenshot-2024-03-07-115210.png",
+      "UserID":""
+    },
+    {
+     "BookID": "208",
+      "Title": "Attack on Titan",
+      "Category": "Japanese manga",
+      "Tags": "Horror, fantasy, action",
+      "Summary": "Attack on Titan (進撃の巨人), which was serialized on Bessatsu Shonen Magazine from 2009 to April, 2021, is one of the hottest manga. For its enormous popularity, the dark-fantasy manga has been adapted into an anime with four seasons and a live-action movie. The symbol of the manga is titans that make humanity stand on the edge of extinction. The main characters Eren Yeager and Mikasa Ackerman with the other Survey Corps members battle against the titans investigating why the titans exist in the world.",
+      "Cover":"https://i.ibb.co/kXN7zHb/Screenshot-2024-03-07-115313.png",
+      "UserID":""
+    },
+    {
+     "BookID": "209",
+      "Title": "Death Note",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, thriller",
+      "Summary": "For manga fans all over the globe, Death Note (デスノート) is the well-known mystery and horror manga of Weekly Shonen Jump. All of the 12 volumes were published in the mid 2000s. One day, the protagonist Light Yagami finds a Death Note: when a name of a person is written on it, he or she dies. He and another main character L fight with each other as if they played a mind game..",
+      "Cover":"https://i.ibb.co/YQHbXjy/Screenshot-2024-03-07-115406.png",
+      "UserID":""
+    },
+    {
+     "BookID": "210",
+      "Title": "My Hero Academia",
+      "Category": "Japanese manga",
+      "Tags": "Comedy, action",
+      "Summary": "My Hero Academia (僕のヒーローアカデミア) is one of the most popular ongoing manga in Weekly Shonen Jump with the theme of superhero. A young boy Izuku Midoriya with no special ability called Quirks tries hard to become a powerful hero to fight the Villains with other various heroes. Both the manga and its anime adaption are rated by international fans around the world.",
+      "Cover":"https://i.ibb.co/dQZmGR7/Screenshot-2024-03-07-121201.png",
+      "UserID":""
+    },
+      {
+     "BookID": "211",
+      "Title": "Vagabond",
+      "Category": "Japanese manga",
+      "Tags": "Historical Fiction, action",
+      "Summary": "Vagabond (バガボンド), an incomplete epic and historical manga, started to be published on Weekly Morning from 1998 but the writer has stopped writing since 2015. The story focuses on the life of the famous Japanese Samurai Musashi Miyamoto (who lived in 1584-1645). How the poor teenager grows and develops the sword skills as a Samurai is depicted in the manga.",
+      "Cover":"https://i.ibb.co/fCZnXzm/Screenshot-2024-03-07-121254.png",
+      "UserID":""
+    },
+    {
+     "BookID": "212",
+      "Title": "Bleach",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, comedy, action",
+      "Summary": "Bleach (ブリーチ), an action and adventure manga, started on Weekly Shonen Jump in 2001 and the story was completed in 2016 with the 74 volumes. Bleach centers on the Samurai protagonist named Ichigo Kurosaki, who fights with monstrous Hollows as a Soul Reaper. The anime adaption was aired between 2004 and 2012, followed by the next series Thousand-Year Blood War from 2022.",
+      "Cover":"https://i.ibb.co/C70qSB6/Screenshot-2024-03-07-121340.png",
+      "UserID":""
+    },
+    {
+     "BookID": "213",
+      "Title": "One Punch Man",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "One-Punch Man (ワンパンマン), one of the most popular manga worldwide, is a superhero and comedy title. It has been serialized on the free online manga magazine Tonari no Young Jump since 2012. The superhero-themed manga features the main character Saitama who looks a normal person but is the most strongest character. He can beat any enemies with just a single punch. It was adapted into an anime in 2015, which was followed by the second season in 2019.",
+      "Cover":"https://i.ibb.co/3YfQSjN/Screenshot-2024-03-07-121445.png",
+      "UserID":""
+    },
+      {
+     "BookID": "214",
+      "Title": "Beserk",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, Fantasy",
+      "Summary": "Berserk (ベルセルク), a dark fantasy ongoing manga, has been published on Young Animal since 1989. The story focuses on the journey of the main character Guts, who survives the world in the fictional medieval Europe with his large sword. Berserk has been also made into an anime adaption and games.",
+      "Cover":"https://i.ibb.co/Lxrw9Mw/Screenshot-2024-03-07-121534.png",
+      "UserID":""
+    },
+    {
+     "BookID": "215",
+      "Title": "Uzumaki",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "Uzumaki (うずまき), which consists of three volumes of manga, has been popular among not only Japanese but also international fans since it was published in 1998-1999. The horror manga has the theme of Uzumaki which means spirals in Japanese. In the fictional cursed town named Kurouzu-cho, the main character Kirie Goshima and her boyfriend Shuichi Saito experiences strange supernatural incidents.",
+      "Cover":"https://i.ibb.co/wrSZD85/Screenshot-2024-03-07-121617.png",
+      "UserID":""
+    },
+    {
+     "BookID": "216",
+      "Title": "Tokyo Ghoul",
+      "Category": "Japanese manga",
+      "Tags": "Fantasy, action",
+      "Summary": "Tokyo Ghoul (東京喰種トーキョーグール) is a popular dark fantasy manga, serialized on Weekly Young Jump from 2011 to 2014 and followed by the sequel title Tokyo Ghoul:re (東京喰種トーキョーグール:re) until 2018. The setting is Tokyo where the creatures called Ghouls live in the human society. They look like a normal human but subsist on human flesh as food. Its anime adaption is also loved by the fans all over the world.",
+      "Cover":"https://i.ibb.co/brN6S6r/Screenshot-2024-03-07-121741.png",
+      "UserID":""
+    },
+    {
+     "BookID": "217",
+      "Title": "Chainsaw Man",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action, fantasy, young adult",
+      "Summary": "Chainsaw Man (チェンソーマン), a Japanese manga series written and illustrated by Tatsuki Fujimoto, is one of the best manga after the 2010s. Serialized in Weekly Shonen Jump from 2018 to 2020, the story blends dark fantasy elements with action and drama. After the first part, the second story arc started in Shonen Jump+ from July 2022. It was first adapted into a high-quaality anime by Mappa in 2022. Struggling with debt, young Denji makes a living by hunting devils. After being betrayed and killed, his pet devil dog, Pochita, revives him, resulting in their fusion. Now, as Chainsaw Man, Denji battles devils and navigates complex human relationships, all while seeking a simple, better life.",
+      "Cover":"https://i.ibb.co/PQsnc5X/Screenshot-2024-03-07-121842.png",
+      "UserID":""
+    },
+    {
+     "BookID": "218",
+      "Title": "Jujutsu Kaisen",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "Jujutsu Kaisen (呪術廻戦), written by Gege Akutami, is a modern dark-fantasy manga published in Weekly Shonen Jump since 2018. It has been made into an anime adaptation by Mappa since 2020. Mixed with horror and martial arts action, it's distinguished by its intense battles and intricate curse system. When Yuji Itadori consumes a cursed object, he becomes the host for a powerful Curse. Introduced to the clandestine world of Jujutsu Sorcerers, he joins Tokyo Jujutsu High. Alongside his peers, Yuji hunts down cursed objects and battles malevolent Cursed Spirits, while confronting the consequences of harboring a dangerous entity within.",
+      "Cover":"https://i.ibb.co/tHnnDG9/Screenshot-2024-03-07-121954.png",
+      "UserID":""
+    },
+    {
+     "BookID": "219",
+      "Title": "Golden Kamuy",
+      "Category": "Japanese manga",
+      "Tags": "Mystery, action",
+      "Summary": "A modern outstanding saga was just concluded in 2022. Golden Kamuy (ゴールデンカムイ) is a historical adventure manga written by Satoru Noda, starting its run in 2014 in Weekly Young Jump. There are 31 volumes in the manga series of Golden Kamuy, which was first adapted into an anime in 2018. It artfully combines Ainu culture, post-Russian-Japanese War settings, survival elements, and treasure hunting. Set in postwar Hokkaido, ex-soldier Saichi “Immortal” Sugimoto teams up with an Ainu girl, Asirpa, to find a hidden Ainu gold treasure using tattoos etched on escaped convicts. As they journey, they confront rivals, uncover dark secrets, and delve deep into the rich tapestry of Ainu culture and history.",
+      "Cover":"https://i.ibb.co/4M63zq1/Screenshot-2024-03-07-141036.png",
+      "UserID":""
     }
+  ],
+  "Korean manhwa": [
+    {
+      "BookID": "300",
+      "Title": "Love..",
+      "Category": "Korean manhwa",
+      "Tags": "Comedy, romance, sci-fi",
+      "Summary": "It's been a while since all androids have been outlawed. Soojung's never been one for technology, let alone androids. So it's a big surprise when her sister gets her a new job… and it's to keep an eye on her illegal android. Soojung feels uncomfortable around him as it is. He's weirdly too polite, has no emotion in his eyes, and he hasn't even got a name. But what Soojung doesn't know yet is that she's going to change all that. And what's more, this android is going to change her life too, in more ways than one",
+      "Cover":"https://i.ibb.co/QmdhCnj/Screenshot-2024-03-07-141356.png",
+      "UserID":""
+    },
+    {
+      "BookID": "301",
+      "Title": "Eleceed",
+      "Category": "Korean manhwa",
+      "Tags": "Mystery, action, comedy, fantasy",
+      "Summary": "Kaiden: A mysterious ability user who hides inside the body of a street cat. He is later picked up by Jiwoo after being injured after a fight with another ability user. He has a stubborn and bossy personality. Jiwoo: an energetic and talkative high school boy who loves cats. He is very kind and also seems to have a special ability.",
+      "Cover":"https://i.ibb.co/crDbqgH/Screenshot-2024-03-07-141444.png",
+      "UserID":""
+    },
+    {
+      "BookID": "302",
+      "Title": "Mercenary Enrollment",
+      "Category": "Korean manhwa",
+      "Tags": "Mystery, action",
+      "Summary": "Yu Ijin was the sole survivor of a plane crash when he was little. After becoming a mercenary to survive for 10 years, he returns to his family in his hometown.",
+      "Cover":"https://i.ibb.co/ZddVjmw/Screenshot-2024-03-07-141641.png",
+      "UserID":""
+    },
+    {
+      "BookID": "303",
+      "Title": "The Chronicles of Heavenly Demon",
+      "Category": "Korean manhwa",
+      "Tags": "Fantasy, mystery, action",
+      "Summary": "'You emphasized harmony your whole life and this is how you go…!' The successor of the Spear Master Sect and his apprentice Hyuk Woon Seong were framed of learning a forbidden Demonic art and slayed. A helpless and pitiful death by the hypocrites of the Orthodox Sect. The moment Woon Seong faced his death, The artifact of the Spear Master Sect emitted a light and gave him a new life. The life as Number 900, a trainee of the Demonic Cult! The two identitie s, the Orthodox Sect and the Demonic Cult. But his objective is one. Vengeance! Accepting his destiny and remembering his grudge, Woon Seong trains in martial arts And his time of revenge slowly comes closer…. Take over the Demonic Cult and punish the hypocrites of the Orthodox Sect! The revenge story of Number 900, Woon Seong growing in tasks of life and death. The webtoon version of author Il-hwang’s popular wuxia novel, Chronicles of the Heavenly Demon.",
+      "Cover":"https://i.ibb.co/NjqNfzk/Screenshot-2024-03-07-141821.png",
+      "UserID":""
+    },
+    {
+      "BookID": "304",
+      "Title": "High School Legend Red Dragon",
+      "Category": "Korean manhwa",
+      "Tags": "Action",
+      "Summary": "The title as the best fighter among the high school gang members. People called him the high school legend, Red Dragon.",
+      "Cover":"https://i.ibb.co/Tw6Ccsy/Screenshot-2024-03-07-143548.png",
+      "UserID":""
+    },
+    {
+      "BookID": "305",
+      "Title": "Iron Mech Bride",
+      "Category": "Korean manhwa",
+      "Tags": "Comedy",
+      "Summary": "Jason and Yasmine are no ordinary couple. They have to figure out how to be a human-mech couple.",
+      "Cover":"https://i.ibb.co/ZMfgyfk/Screenshot-2024-03-07-143726.png",
+      "UserID":""
+    },
+    {
+      "BookID": "306",
+      "Title": "Sunny-Side Up",
+      "Category": "Korean manhwa",
+      "Tags": "Young adult, romance",
+      "Summary": "Welcome to our shared house, where you'll find a lot of eggs, friends and maybe some love!",
+      "Cover":"https://i.ibb.co/tL0C837/Screenshot-2024-03-07-144143.png",
+      "UserID":""
+    },
+     {
+      "BookID": "307",
+      "Title": "Not a Lady Anymore",
+      "Category": "Korean manhwa",
+      "Tags": "Fantasy, romance",
+      "Summary": "“All I want is a 'future that doesn't die,' that's all.” Adela, the daughter of the Laver family, a famous family of magic, has lived obediently, giving her all to be loved by her family. But one day, when she hits her head due to a maid pushing her, memories of her past life return, and she realizes that she was destined to be killed in the end. When Adela learns about the future, she no longer pursues her goal of being loved by her family, even to the point of abandoning herself. If she is going to live an unhappy life where she will not be rewarded, she would rather live as she pleases, leave her family now, and live in peace as a commoner. She made up her mind to do so, but…",
+      "Cover":"https://i.ibb.co/g72C5DD/Screenshot-2024-03-07-144237.png",
+      "UserID":""
+    },
+     {
+      "BookID": "308",
+      "Title": "High School Devil",
+      "Category": "Korean manhwa",
+      "Tags": "Action",
+      "Summary": "People know me as the High School Devil. I moved schools and changed my name to start a new life, but things keep getting in the way…",
+      "Cover":"https://i.ibb.co/M8dyfF6/Screenshot-2024-03-07-144543.png",
+      "UserID":""
+    },
+    {
+      "BookID": "309",
+      "Title": "The Blood Revival",
+      "Category": "Korean manhwa",
+      "Tags": "Fantasy, action",
+      "Summary": "The ancient demolisher's soul has been resurrected. Now, will his evil influences make the world come crumbling down?",
+      "Cover":"https://i.ibb.co/VVMr6Kb/Screenshot-2024-03-07-144645.png",
+      "UserID":""
+    },
+    {
+      "BookID": "310",
+      "Title": "Maki and Friends",
+      "Category": "Korean manhwa",
+      "Tags": "Comedy",
+      "Summary": "Join Maki and his whacky but charming neighbors on their grand adventure through everyday life.",
+      "Cover":"https://i.ibb.co/bgKd0sq/Screenshot-2024-03-07-153618.png",
+      "UserID":""
+    },
+    {
+      "BookID": "311",
+      "Title": "Goblin",
+      "Category": "Korean manhwa",
+      "Tags": "Fantasy",
+      "Summary": "I definitely died a moment ago, I swear! Who are these people? What do they want from me?",
+      "Cover":"https://i.ibb.co/WkbVTM1/Screenshot-2024-03-07-153853.png",
+      "UserID":""
+    },
+    {
+      "BookID": "312",
+      "Title": "Go Away, Mr.Demon",
+      "Category": "Korean manhwa",
+      "Tags": "Romance",
+      "Summary": "Silver opened a book, and now he has to deal with a hungry demon lord! Will this relationship be alright?",
+      "Cover":"https://i.ibb.co/Lnbft4y/Screenshot-2024-03-07-154433.png",
+      "UserID":""
+    },
+    {
+      "BookID": "313",
+      "Title": "Can't See Can't Hear But Love",
+      "Category": "Korean manhwa",
+      "Tags": "Mystery, action",
+      "Summary": "If I had stopped drawing when she told me, would I have been able to see? But then, I would've never met Melody…",
+      "Cover":"https://i.ibb.co/bNnZMH2/Screenshot-2024-03-07-154531.png",
+      "UserID":""
+    },
+    {
+      "BookID": "314",
+      "Title": "Volcanic Age",
+      "Category": "Korean manhwa",
+      "Tags": "Fantasy, action",
+      "Summary": "Joo Seo-Cheon, a man who survives the age of war through sheer luck and becomes Mount Hua Sects elder only to live a life full of regrets and doubts. he then lies on his death bed waiting for the inevitable when he is returned to the past",
+      "Cover":"https://i.ibb.co/6m0Y8pN/Screenshot-2024-03-07-154637.png",
+      "UserID":""
+    },
+    {
+      "BookID": "315",
+      "Title": "I refuse the attachment of the emperor who abandoned me",
+      "Category": "Korean manhwa",
+      "Tags": "Romance, comedy",
+      "Summary": "Loen Setia was the long-time lover of the emperor, Cassis Albinese, but was reduced to a mistress because of her status. In the end, Loen met her cruel death at the hands of the jealous Empress and Cassis, who had a change of heart…Before she knew it, she had been reincarnated on the day she entered the palace as Cassis's mistress. Although Loen is confused by her incredible situation, he is grateful for the opportunity she has been given and vows to take revenge on Cassis, who betrayed him, and her Empress's gang, who caused his death. One day, Loen faces a shocking truth in a corner of her imperial palace. When Loen learns of the contentsof her former emperor's will, which appoints her as her next empress, Loen trembles with her chagrin and becomes furious. Meanwhile, Cassis becomes more and more attracted to Loen, whose attitude is different from hers before. When she returns to her life, Rowen learns her terrible secret, and will he be able to successfully take revenge on her and regain his place…?",
+      "Cover":"https://i.ibb.co/kx6Wk5W/Screenshot-2024-03-07-154941.png",
+      "UserID":""
+    },
+    {
+      "BookID": "316",
+      "Title": "Nano Machine",
+      "Category": "Korean manhwa",
+      "Tags": "Action, Fantasy, Sci-fi",
+      "Summary": "After being held in disdain and having his life put in danger, an orphan from the Demonic Cult, Cheon Yeo-Woon, has an unexpected visit from his descendant from the future who inserts a nano machine into Cheon Yeo-Woon's body, which drastically changes Cheon Yeo-Woon's life after its activation. The story of Cheon Yeo-Woon's journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
+      "Cover":"https://i.ibb.co/SXSXVjt/Screenshot-2024-03-07-155230.png",
+      "UserID":""
+    },
+    {
+      "BookID": "317",
+      "Title": "Overgeared",
+      "Category": "Korean manhwa",
+      "Tags": "Action, Fantasy",
+      "Summary": "[Shin Youngwoo (Username: Grid)]The world's greatest VR game <Satisfy> Whether in reality or in the game, misfortune has always befallen upon him…An unexpected reward he discovered during a quest, 'Pagm's Rare Book'. Changing into a one of a kind, strongest, Legendary class amongst +2 billion users. “How are you still alive…?!” “Well, it's nothing complicated…” “I'm Overgeared.”",
+      "Cover":"https://i.ibb.co/30xXVHq/Screenshot-2024-03-07-155338.png",
+      "UserID":""
+    },
+    {
+      "BookID": "318",
+      "Title": "SSS-Class Suicide Hunter",
+      "Category": "Korean manhwa",
+      "Tags": "Mystery, action, fantasy",
+      "Summary": "I want an S-Rank skill too! I want it so badly, I could die for it! [You have awakened an S-Rank skill.] [But it only works when you die.] Eh !? WHAT IS THE POINT OF GETTING ONE IF I DIE !?",
+      "Cover":"https://i.ibb.co/8BQVYXS/Screenshot-2024-03-07-155601.png",
+      "UserID":""
+    },
+    
+    {
+      "BookID": "319",
+      "Title": "Kill The Hero",
+      "Category": "Korean manhwa",
+      "Tags": "Mystery, action, fantasy",
+      "Summary": "One day, the world transformed into a game. 'Dungeons' and 'monsters' emerged in the middle of cities, and 'players' who had received the gods' authority appeared. Se-jun Lee, the guildmaster of the Messiah Guild that would bring salvation to the world. “Let us save the world together. Let's put an end to this nightmare.” The whole world celebrated the hero's appearance, And I became his comrade. But… He wasn't a hero nor a messiah like the world was hailing him. He was a deceitful hero with the secret ambition to rule the world. “You did well. If it weren't for you, I couldn't have come up till here.” I lost my life at his blade in the last dungeon. …or so i thought. The announcement I heard next to my ear the moment I died. [Starting the game.] I returned to the past, back when I still hadn't awakened as a player. And this time, It's my turn…… To 'hunt' him.",
+      "Cover":"https://i.ibb.co/P4bkd56/Screenshot-2024-03-07-155648.png",
+      "UserID":""
+    }  
   ]
 }
